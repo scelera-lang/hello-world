@@ -1,0 +1,6 @@
+include { println } from "sclr:io";
+
+uint8 main()
+{
+	println("Hello, World!");
+}
