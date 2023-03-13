@@ -1,4 +1,4 @@
-include { println } from "sclr:io";
+#include { println } from "sclr:io";
 
 uint8 main()
 {
